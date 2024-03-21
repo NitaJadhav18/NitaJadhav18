@@ -8,15 +8,16 @@
 
 💪 Strong experience in Backend Testing like API testing and Database Testing.
 
-💪 Working experience in Mobile Tetsing using real devices like Android and IOS.
+💪 Working experience in Mobile Testing using real devices like Android and IOS.
 
   During my work i have implemented various patterns and used following tools:
+  
   Selenium WebDriver/TestNG/Gradle/Jenkins/Selenium Grid/LamdaTest/Cucumber/GitHub/Postman/Dbeaver/Jira/Zephyr
   
 💪Experience working in Agile(Scrum) environment
 
-🌱 Certified: ISTQB Foundation Level
-              Certifed QA Automation Engineer in TestPro Bootcamp 
+🌱 Certified: ISTQB Foundation Level And
+              Certified QA Automation Engineer in TestPro Bootcamp 
 
 📫 Nita1827@gmail.com
 
