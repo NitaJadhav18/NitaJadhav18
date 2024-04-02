@@ -1,6 +1,6 @@
 👋 Hi, I am Nita Jadhav
  
-👀 I’m interested in ..Entry level QA Automation Engineer Role.
+👀 I’m interested in Entry level QA Automation Engineer Role.
   
 💪 I have strong experience in Automation Testing with Selenium WebDriver using Java.
 
